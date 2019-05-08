@@ -9,4 +9,10 @@ I'm working on some clothes
 I cut out cloth on an Epilog 60 watt lasercutter and sew it with a Singer Heavy Duty sewing machine.
 
 ## Images
-![A design for a sewless croptop](/woptop/woptop.svg)
+![Design for a sewless croptop](/woptop/woptop.svg)
+
+![Design for shirt with sleeves and many small, regular holes on the back](oholes/oholes\ shirt\ design.png)
+
+![Person wearing black felt shirt with holes looking back at camera](oholes/IMG_7065.jpg)
+
+![Person wearing black felt shirt with holes walking away from camera](oholes/IMG_7194.jpg)
